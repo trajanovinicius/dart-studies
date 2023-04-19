@@ -7,6 +7,8 @@ Em algumas situações, precisamos alterar o tipo de uma variável para outro, p
 void main() {
   String um = '1';
   int numeroUm = 1;
+  print(um);
+  print(numeroUm);
 }
 
 /*
