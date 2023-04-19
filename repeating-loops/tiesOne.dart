@@ -8,3 +8,4 @@ void main() {
   }
   print('Eu sou maior de idade? $maiorDeIdade');
 }
+//dentro dos () de um if, só é aceito valores booleanos.
